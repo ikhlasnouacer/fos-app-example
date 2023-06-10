@@ -1,5 +1,9 @@
 .title {
     text-decoration: underline;
-    padding-top: 1.5rem !important;
-    padding-bottom: 1.5rem !important;
-}
+    padding: 1.5rem 0 !important;
+    font-size: 20px; // Adjust the font size as per your requirements
+    display: flex;
+    align-items: center;
+    justify-content: center; // Optional, if you want to horizontally center the text as well
+  }
+  
